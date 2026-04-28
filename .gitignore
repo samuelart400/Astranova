@@ -1,7 +1,5 @@
 # Ignore local secrets
-secrets.py
-
-# Ignore other common junk
+config_secrets.py
 __pycache__/
 *.pyc
 .env
